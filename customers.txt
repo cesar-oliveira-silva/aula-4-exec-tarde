@@ -1,0 +1,3 @@
+arquivo;nome;sobrenome;rg;numeroTel;endereco
+1;cesar;silva;40832;119999;rua ninguem
+2;cesar;augusto;40832;119999;rua alguem
